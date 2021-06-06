@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.header,.footer{
+  text-align: center;
+}
+
+.horned{
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+  border: 1px solid black;
+
+}
+.horned img {
+  position: relative;
+  left: 27%;
+  width: 50%;
+  height: 200px;
+
+
+
+}
+
+.horned p,h2{
+  text-align: center;
+}
